@@ -1,2 +1,2 @@
-kiwi.js-plugin-aitree-plugin
-============================
+HTML5 Behaviour Trees Plugin
+=============================
