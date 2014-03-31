@@ -5,7 +5,7 @@ var preloader = new Kiwi.State('preloader');
 //LOADING ASSETS
 preloader.preload = function(){
     Kiwi.State.prototype.preload.call(this);
-    this.addImage('loadingImage', 'loadingImage.png', true);
+    this.addImage('loadingImage', 'assets/loadingImage.png', true);
 
 }
 preloader.create = function(){
